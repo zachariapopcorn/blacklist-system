@@ -1,1 +1,1 @@
-# blacklist-system
+This was written as a plugin for qbot
